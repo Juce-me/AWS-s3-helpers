@@ -19,11 +19,11 @@ Requrements
 
 Description
 -----
-Takes files from s3://bucket/folder/\*.specific_extension and downlods it to local folder.
+It takes files from `s3://bucket/folder/\*.specific_extension` and downloads it to local folder.
 
-Hot to use
+How to use
 -----
-Open, use your creds in the client dictionary.
+Open, use your creds in the client dictionary, run.
 
 
 -----
