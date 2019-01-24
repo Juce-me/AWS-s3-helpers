@@ -79,5 +79,5 @@ def downloadFilesFromS3(client_cfg, date = '20180312'):
   status = 'downloaded'
   return status
 
-client_cfg = GM['client1']
+client_cfg = client['client1']
 print downloadFilesFromS3(client_cfg)
